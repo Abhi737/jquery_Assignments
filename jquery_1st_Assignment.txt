@@ -1,0 +1,15 @@
+1st:-Store the student information
+
+https://jsfiddle.net/Abhishek123_Kumar/sk62xjm9/
+
+2nd program:-callback function
+
+https://jsfiddle.net/Abhishek123_Kumar/uj1h20np/
+
+3rd:- program promise 
+
+https://jsfiddle.net/Abhishek123_Kumar/arqhz8ep/
+
+4th:-program async and await
+
+https://jsfiddle.net/Abhishek123_Kumar/0a4m713d/
